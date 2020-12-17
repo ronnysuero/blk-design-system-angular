@@ -78,7 +78,7 @@
     "ngx-bootstrap": "5.1.2",
     "nouislider": "11.1.0",
     "rxjs": "6.5.3",
-    "tslib": "1.10.0",
+    "tslib": "1.14.1",
     "zone.js": "0.10.2"
   },
   "devDependencies": {
